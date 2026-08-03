@@ -2,6 +2,10 @@
 
 Kindle KDP出版管理ツール for Umbrella Parade
 
+## 公開ページ
+
+https://umbrellaparade.github.io/Kindle-Publishing-Navi-/
+
 ## 機能
 
 - 出版プロジェクト管理（複数書籍対応、ローカルストレージ永続保存）
